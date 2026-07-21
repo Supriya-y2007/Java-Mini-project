@@ -1,5 +1,10 @@
 # Java-Mini-projectpackage com.JavaMiniProject1;
 
+
+
+
+
+
 import java.util.Scanner;
 
 public class Main {
